@@ -221,7 +221,7 @@ Python code?  Only one reason:
 
     * You can still import it from other Python code.
 
-That's an important thing to remember when I reveal **the penultimate form of
+That's an important thing to remember when I reveal **the ultimate form of
 compression**:  The ``--pyz`` option.
 
 The ``--pyz`` method of compression uses the zip file container format specified
